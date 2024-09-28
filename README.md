@@ -11,8 +11,7 @@
 자연으로 떠날 여행지를 쉽고 빠르게 찾아보세요!
 
 </aside>
-
-![overview.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/f005d328-b083-49e1-abcf-0c80a2fb0c52/overview.png)
+![image](https://github.com/user-attachments/assets/3da1ebf2-0c1b-4345-b96b-c120b146a4cc)
 
 ## ECO TOUR는 이런 사람들에게 필요해요!
 
@@ -26,9 +25,9 @@
 
 ## ECO TOUR의 주요 기능이에요!
 
-![Main function1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/40b83fa1-5ef2-4118-b4b2-f55f6516d3fa/Main_function1.png)
+![image](https://github.com/user-attachments/assets/aab53f7b-ad7c-4705-8884-e2e673fcb5bd)
 
-![Main function2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/0391329b-b9a8-4014-8edc-aff068e2f654/Main_function2.png)
+![image](https://github.com/user-attachments/assets/4d69910b-9e1f-41b1-a3e5-aa440407a180)
 
 3️⃣ 생태 관광지 커뮤니티 및 리뷰 제공
 
@@ -36,7 +35,7 @@
 
 ## ECO TOUR를 만든 사람들
 
-![취업사진.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/d556aa2e-e01b-476d-904c-4ec019a63772/%EC%B7%A8%EC%97%85%EC%82%AC%EC%A7%84.jpg)
+![image](https://github.com/user-attachments/assets/d16a6723-7a1f-40bc-8153-5e5b81e2ec95)
 
 **박보영 |** Backend
 **Email**
@@ -44,7 +43,7 @@ pby0204@gmail.com
 **Github**
 https://github.com/bboyeong
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/d8826ff5-c6e2-4fe9-9579-ba9540c1188e/image.png)
+![image](https://github.com/user-attachments/assets/aa909248-b72c-4142-a181-f8378d9f5ce2)
 
 **방가윤 |** Backend
 **Email**
@@ -52,7 +51,7 @@ gynovzs@gmail.com
 **Github** 
 https://github.com/novzs
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/178969c1-623f-486f-8d18-c65c63e3f9ae/image.png)
+![image](https://github.com/user-attachments/assets/992af0ee-74f7-4867-859e-f3c72fc6d471)
 
 **윤진호 |** Backend
 **Email**
@@ -60,7 +59,7 @@ https://github.com/novzs
 **Github**
 https://github.com/yjh4124
 
-![이력서 사진.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/df37bbf4-bd5d-40a6-bc63-d9a0baedf658/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%82%AC%EC%A7%84.jpg)
+![image](https://github.com/user-attachments/assets/7fae6a70-7d86-43fd-818a-c91cebf5972a)
 
 **이미지 |** Frontend
 **Email**
@@ -68,7 +67,7 @@ dlalwl723@naver.com
 **Github**
 https://github.com/jpg723
 
-![IMG_3029.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/3ab2e09d-4365-4347-aca0-1f578ff7a340/0be8a653-6731-4bf9-a642-a6870033e6a6/IMG_3029.jpg)
+![image](https://github.com/user-attachments/assets/7ab1f97c-6f0b-4b61-bc51-eb3d9e4e9468)
 
 **이상빈 |** Frontend
 **Email**
