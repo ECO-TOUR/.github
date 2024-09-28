@@ -10,7 +10,7 @@
 **ECO TOUR**는 이러한 사람들을 위해 만들어진 서비스에요.
 자연으로 떠날 여행지를 쉽고 빠르게 찾아보세요!
 
-</aside>
+
 ![image](https://github.com/user-attachments/assets/3da1ebf2-0c1b-4345-b96b-c120b146a4cc)
 
 ## ECO TOUR는 이런 사람들에게 필요해요!
@@ -35,7 +35,8 @@
 
 ## ECO TOUR를 만든 사람들
 
-![image](https://github.com/user-attachments/assets/d16a6723-7a1f-40bc-8153-5e5b81e2ec95)
+<img src="https://github.com/username/repository/blob/main/path/to/image.png" width="200" height="200" alt="이미지 설명" />
+
 
 **박보영 |** Backend
 **Email**
