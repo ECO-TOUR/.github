@@ -35,7 +35,7 @@
 
 ## ECO TOUR를 만든 사람들
 
-<img src="https://github.com/username/repository/blob/main/path/to/image.png" width="200" height="200" alt="이미지 설명" />
+<img src="https://github.com/user-attachments/assets/d16a6723-7a1f-40bc-8153-5e5b81e2ec95" width="200" height="200" alt="이미지 설명" />
 
 
 **박보영 |** Backend
