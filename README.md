@@ -35,7 +35,7 @@
 
 ## ECO TOUR를 만든 사람들
 
-<img src="https://github.com/user-attachments/assets/d16a6723-7a1f-40bc-8153-5e5b81e2ec95" width="200" height="250" alt="이미지 설명" />
+
 
 
 **박보영 |** Backend
@@ -44,7 +44,6 @@ pby0204@gmail.com
 **Github**
 https://github.com/bboyeong
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371742001-aa909248-b72c-4142-a181-f8378d9f5ce2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082012Z&X-Amz-Expires=300&X-Amz-Signature=409ed9e9bd00fa0f1c3d028736206aaec9ecf60382d7a8604e918886c37ac76d&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />
 
 **방가윤 |** Backend
 **Email**
@@ -52,7 +51,7 @@ gynovzs@gmail.com
 **Github** 
 https://github.com/novzs
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371741987-992af0ee-74f7-4867-859e-f3c72fc6d471.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082034Z&X-Amz-Expires=300&X-Amz-Signature=85e4b448c261f3a4419cfd0ea9cf27cfca0657383e217b78c544b81d49080e56&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />
+
 
 **윤진호 |** Backend
 **Email**
@@ -60,7 +59,6 @@ https://github.com/novzs
 **Github**
 https://github.com/yjh4124
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371741966-7fae6a70-7d86-43fd-818a-c91cebf5972a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082138Z&X-Amz-Expires=300&X-Amz-Signature=050943f10fb3894ba14e3ff1d3e6d0c11cdf55ebc0b32e75bf443a363b15ff82&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />
 
 
 **이미지 |** Frontend
@@ -70,13 +68,31 @@ dlalwl723@naver.com
 https://github.com/jpg723
 
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371741941-7ab1f97c-6f0b-4b61-bc51-eb3d9e4e9468.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082157Z&X-Amz-Expires=300&X-Amz-Signature=f35ede22b058f593616fc09535e459f102fe0b148e9e7df6ba958d7179c1b40c&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />
 
 **이상빈 |** Frontend
 **Email**
 ideal402@naver.com
 **Github**
 https://github.com/ideal402
+
+
+
+|                                                        박보영                                                        |                                      방가윤                                       |                                                        윤진호                                                        |
+|:-----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+|<img src="https://github.com/user-attachments/assets/d16a6723-7a1f-40bc-8153-5e5b81e2ec95" width="200" height="250" alt="이미지 설명" />| <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371742001-aa909248-b72c-4142-a181-f8378d9f5ce2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082012Z&X-Amz-Expires=300&X-Amz-Signature=409ed9e9bd00fa0f1c3d028736206aaec9ecf60382d7a8604e918886c37ac76d&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />  | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371741987-992af0ee-74f7-4867-859e-f3c72fc6d471.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082034Z&X-Amz-Expires=300&X-Amz-Signature=85e4b448c261f3a4419cfd0ea9cf27cfca0657383e217b78c544b81d49080e56&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />|
+|                                   Team Leader<br/>backend                                  |                                    backend                                    |                                                     backend                                                      |
+|                                     [@](https://github.com/)                                      |                   [@](https://github.com/)                   |                                     [@](https://github.com/)                                      |
+
+|                                                        이미지                                                        |                                                        이상빈                                                        |
+|:-----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371741966-7fae6a70-7d86-43fd-818a-c91cebf5972a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082138Z&X-Amz-Expires=300&X-Amz-Signature=050943f10fb3894ba14e3ff1d3e6d0c11cdf55ebc0b32e75bf443a363b15ff82&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" /> | <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139730231/371741941-7ab1f97c-6f0b-4b61-bc51-eb3d9e4e9468.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T082157Z&X-Amz-Expires=300&X-Amz-Signature=f35ede22b058f593616fc09535e459f102fe0b148e9e7df6ba958d7179c1b40c&X-Amz-SignedHeaders=host" width="200" height="250" alt="이미지 설명" />
+ |
+|                                           Modeling<br/>Data Engineering                                           |                                                 Data Engineering                                                  |
+|                                    [@](https://github.com/)                                    |                                        [@](https://github.com/)                                         |
+
+
+
+
 
 ## ECO TOUR의 사용 방법에 대해서 자세히 알고 싶다면?
 
